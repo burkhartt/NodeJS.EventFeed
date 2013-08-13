@@ -1,0 +1,25 @@
+{
+  "name": "eventfeed",
+  "preferGlobal": true,
+  "version": "0.3.0",
+  "author": "",
+  "description": "",
+  "contributors": [
+    {
+      "name": "Tim Burkhart",
+      "email": "timmyb_84@hotmail.com"
+    }
+  ],
+  "bin": {},
+  "dependencies": {},
+  "devDependencies": {
+    "express": "~3.3.5",
+    "request": "~2.26.0",
+    "cheerio": "~0.12.1"
+  },
+  "bundledDependencies": [],
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
